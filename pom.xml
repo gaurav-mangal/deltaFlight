@@ -32,13 +32,14 @@
 				<extensions>true</extensions>
 				<configuration>
 				   <cloudHubDeployment>
+				    <uri>https://anypoint.mulesoft.com</uri>
                     <muleVersion>4.3.0</muleVersion>
                     <username>gaurimangal</username>
                     <password>Suncity@456</password>
                     <applicationName>jenkintesting-service</applicationName>
                     <environment>Sandbox</environment>
                     <workers>1</workers>
-                    <workerType>Micro</workerType>
+                    <workerType>MICRO</workerType>
                    </cloudHubDeployment>
 				</configuration>
 			</plugin>
