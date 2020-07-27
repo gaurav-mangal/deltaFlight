@@ -34,7 +34,7 @@
 				   <cloudHubDeployment>
 				    <uri>https://anypoint.mulesoft.com</uri>
                     <muleVersion>4.3.0</muleVersion>
-                    <username>gauri_mangal</username>
+                    <username>gaurimangal</username>
                     <password>Suncity@456</password>
                     <applicationName>jenkintesting-service</applicationName>
                     <environment>Sandbox</environment>
